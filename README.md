@@ -1,1 +1,14 @@
-# random-readme
+# Radom Docs(README)
+
+### This repository contains a collection of funny and useful dummy documents that I often need to search for on Google. 
+#### I've decided to gather all my usual questions in a random readme file and share them here. 
+
+## Table of Contents
+
+1. [Python](./python.md)
+
+#### Feel free to contact me if you'd like to contribute or edit these documents.
+
+
+Email Address: ```rezaqavi1379@gmail.com```
+
