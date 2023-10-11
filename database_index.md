@@ -15,7 +15,7 @@ Here are a few rules to help you decide which indexes to create:
 - If the comparison operator is OR (for example, DEPT = 'D101' OR HIRE_DATE > {01/30/89}), an index does not help performance. Therefore, you need not create one.
 
 ## Database Indexes Structure
-![Data Base indexes Structure](./images/database_index_structure.jpg)
+![Data Base indexes Structure](./images/db_index_strcture.jpg)
 
 #### Sequential File Organization or Ordered Index File
 - Dense:For every search key value in the data file, there is an index record.
