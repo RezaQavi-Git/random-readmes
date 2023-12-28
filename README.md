@@ -10,6 +10,8 @@
 3. [OOP](./OOP.md)
 4. [Design Pattern](./design_pattern.md)
 4. [Vim](./vim.md)
+5. [Books](./books.md)
+6. [Design Principles](./design_principles.md)
 
 #### Feel free to contact me if you'd like to contribute or edit these documents.
 

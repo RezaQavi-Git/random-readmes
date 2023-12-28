@@ -1,16 +1,29 @@
 # Design Pattern
 
-### Definition
+## Definition
 
-Design patterns are design level solutions for recurring problems that we software engineers come across often.
+- Design patterns are design level solutions for recurring problems that we software engineers come across often.
+- Design Patterns give you a shared vocabulary with other developers
 
-### Types of Design Patterns
+## Types of Design Patterns
 
 1. Creational: These patterns are designed for class instantiation. They can be either class-creation patterns or object-creational patterns.
 
 2. Behavioral: These patterns are designed depending on how one class communicates with others. 
 
 3. Structural: These patterns are designed with regard to a class's structure and composition. 
+
+## Design Pattern List
+
+### The Strategy Pattern
+The Strategy Pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable.
+Strategy lets the algorithm vary independently from clients that use it.
+
+### Observer Pattern
+Publishers + Subscribers = Observer Pattern
+
+The Observer Pattern defines a one-to-many dependency between objects so that when one object changes state, all of its dependents are notified and updated automatically.
+
 
 ### Examples
 - Type 1: Creational - The Singleton Design Pattern
@@ -30,4 +43,4 @@ Design patterns are design level solutions for recurring problems that we softwa
 ### References
 - [Freecodecamp](https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know/)
 - [Sourcemaking](https://sourcemaking.com/design_patterns)
-- 
+- [Head First Design Patterns](./books.md)
