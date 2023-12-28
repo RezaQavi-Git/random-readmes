@@ -4,4 +4,4 @@
 
 ## Table of Contents
 
-1. [Head First Design Patterns](./head_first_design_patterns.md)
+1. [Head First Design Patterns](./books/head_first_design_patterns.md)
