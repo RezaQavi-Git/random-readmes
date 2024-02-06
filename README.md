@@ -15,6 +15,7 @@
 5. [Vim](./vim.md)
 6. [Books](./books.md)
 7. [Design Principles](./design_principles.md)
+8. [Protocol Buffers](./protobuff.md)
 
 #### Feel free to contact me if you'd like to contribute or edit these documents.
 
