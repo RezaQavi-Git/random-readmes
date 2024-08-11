@@ -1,6 +1,6 @@
 # Radom READMEs
 
-![RandomREADMEs](./images/random_readmes.jpg)
+<!-- ![RandomREADMEs](./images/random_readmes.jpg) -->
 
 ### This repository contains a collection of funny and useful dummy documents that I often need to search for on Google .
 
