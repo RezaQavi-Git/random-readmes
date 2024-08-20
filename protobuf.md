@@ -34,6 +34,17 @@ New code will also transparently read old messages. New fields will not be prese
 
 Follow this link: [Link](https://protobuf.dev/overview/#work)
 
+## Understanding the Proto File Header
+syntax = "proto3";
+  - This specifies the syntax version of the Protocol Buffers language. Proto3 is the newer version and simplifies some aspects of proto2, such as making fields optional by default.
+
+option java_package = "X.provides.v1";
+  - This option defines the Java package in which the generated Java classes will be placed. When you generate the Java code from this proto file, the classes will be placed in this package.
+
+option java_outer_classname = "ServiceXProto";
+  - This specifies the name of the outer Java class that will be generated for this proto file. All the message classes and service stubs within this proto file will be nested within this outer class named LegacyLoyaltyProto.
+
+
 ## Protocol Buffers Definition Syntax
 
 A field can also be of:
